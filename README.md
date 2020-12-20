@@ -15,8 +15,8 @@ Additional questions were raised and answered:
 2) How is Lyft's revenue calculated?
 3) What driver segments generate a higher lifetime value?
 4) What is the projected lifetime of a driver?
-5) What insights can be taken from the driver's churn information?
-6) What weekdays, days or times are more popular?
+5) What insights can be taken from the driver churn information?
+6) What days and times are more popular?
 7) What information can be taken from the Prime Time information in order to incentivise drivers to work at certain times?
 8) What relevant business values has the lifetime value?
 9) What future strategies can be advised based on the data?
